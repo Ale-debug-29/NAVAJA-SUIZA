@@ -85,7 +85,7 @@ while (-not $salir) {
     # ============================================================
     Clear-Host
     Write-Host "==========================================================" -ForegroundColor Green
-    Write-Host "        ~~-   Menu Interactivo de Red   -~~              " -ForegroundColor Yellow
+    Write-Host "        ~~-          NAVAJA SUIZA        -~~              " -ForegroundColor Yellow
     Write-Host "==========================================================" -ForegroundColor Green
     Write-Host "  Interfaz : $IFACE  |  IP: $ip  |  GW: $gw" -ForegroundColor Cyan
     Write-Host "==========================================================" -ForegroundColor Green
